@@ -1,4 +1,4 @@
-sources:
+bases:
   - ../../base
 
 nameSuffix: -apac
